@@ -1,1 +1,1 @@
-type qfp-daemon_prop, property_type;
+vendor_internal_prop(qfp-daemon_prop)
