@@ -1,0 +1,3 @@
+persist.qfp     u:object_r:qfp-daemon_prop:s0
+persist.qfp.    u:object_r:qfp-daemon_prop:s0
+sys.qfp.        u:object_r:qfp-daemon_prop:s0

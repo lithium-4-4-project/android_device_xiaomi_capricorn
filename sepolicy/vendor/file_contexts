@@ -1,0 +1,3 @@
+/data/misc/stargate(/.*)?                 u:object_r:qfp-daemon_core_data_file:s0
+
+/(mnt/vendor)/persist/qc_senseid(/.*)?    u:object_r:persist_qc_senseid_file:s0

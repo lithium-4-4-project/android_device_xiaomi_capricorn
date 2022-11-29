@@ -1,0 +1,3 @@
+type persist_qc_senseid_file, file_type;
+
+type qfp-daemon_core_data_file, file_type, core_data_file_type, data_file_type;
