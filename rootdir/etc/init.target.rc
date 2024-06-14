@@ -33,6 +33,9 @@ on post-fs-data
     chown system system /dev/sysmatdrv
     chmod 0660 /dev/sysmatdrv
 
+    chown system system /sys/devices/soc/757a000.i2c/i2c-6/6-0051/eeprom
+    chmod 0440 /sys/devices/soc/757a000.i2c/i2c-6/6-0051/eeprom
+
 service qfp-daemon /vendor/bin/qfp-daemon
     class late_start
     user system
