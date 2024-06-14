@@ -212,7 +212,9 @@ vendor/etc/qdcm_calib_data_lgd_fhd_cmd_incell_dsi_panel.xml|bb10ca71e619811a7e0b
 -vendor/app/QFingerprintService/QFingerprintService.apk
 -vendor/bin/qfp-daemon|1bd3fdb98510e6be98a3e447033ee8271bd8cd7b
 -vendor/lib64/libqfp-service.so|bf2f404ae9eac30f01e8dfadd342d44baba46794
--vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so
+
+# Fingerprint -from lavender V12.5.7.0.QFGCNXM
+-vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so|0b84054262e01300e72796ee26ed6f9e00bce9b7
 
 # Graphics firmware
 vendor/firmware/a530_zap.b00
